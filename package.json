@@ -1,0 +1,15 @@
+{
+  "name": "crew-clock",
+  "version": "1.0.0",
+  "description": "Crew Clock - simple crew time tracking with travel-window penalties",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
